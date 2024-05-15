@@ -72,4 +72,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 The writing of code began here with the following steps;
 
-Created GeberalInfo.js file which has code that defines a React functional component called GeneralInfo. The component allows users to view and edit their general information such as name, email and phone number
+1. Created GeneralInfo.js, EducationalExperience.js and     PracticalExperience.js files which have code that defines React functional components that allow users to view and edit their general information such as name, email and   phone number etc.
+
+2. Integrated components into the Main Application
+
+
+

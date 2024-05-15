@@ -1,6 +1,5 @@
-import React, { useState } from 'react';
-import './styles/GeneralInfo.css';
-
+import React, { useState } from 'react'
+import '../styles/GeneralInfo.css';
 const GeneralInfo = () => {
     const [info, setInfo] = useState({name: '', email: '', phone: ''});
     const [editMode, setEditMode] = useState(true);

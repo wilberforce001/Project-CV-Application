@@ -1,0 +1,30 @@
+.educational-experience {
+    background-color: #f9f9f9;
+    margin: 20px; 
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+
+.educational-experience input {
+    display: block;
+    margin-bottom: 10px;
+    padding: 8px;
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.educational-experience button {
+    padding: 10px 20px;
+    color: #fff;
+    background-color: #28a745;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.educational-experience button:hover {
+    background-color: #218838;
+}
+
