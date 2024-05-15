@@ -37,3 +37,9 @@
 .practical-experience button:hover {
     background-color: #c82333;
 }
+
+@media only screen and (max-width: 600px) {
+    .practical-experience input {
+        width: 100%;
+    }
+}

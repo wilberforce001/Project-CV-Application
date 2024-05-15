@@ -28,3 +28,9 @@
     background-color: #218838;
 }
 
+@media only screen and (max-width: 600px) {
+    .educational-experience input {
+        width: 100%;
+    }
+}
+
